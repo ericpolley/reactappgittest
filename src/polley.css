@@ -1,0 +1,58 @@
+body {
+    margin: 0;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    
+}
+/*   Flexbox   */
+.dflex {
+    display: flex;
+}
+
+.flexcol {
+   flex-direction: column;
+}
+
+.flexrow {
+    flex-direction: row;
+}
+
+/*   Cosmetics   */
+
+/*   Borders  */
+
+.border {
+    border: 2px solid black;
+}
+
+/*   Margins   */
+.m10p {
+    margin: 10px;
+}
+.m20p {
+    margin: 20px;
+}
+.m30p {
+    margin: 30px;
+}
+/*   Padding  */
+.p10 {
+    padding: 10px;
+}
+.p20 {
+    padding: 20px;
+}
+.p30 {
+    padding: 30px;
+}
+/*   Backgrounds   */
+.bg-black {
+    background-color: black;
+}
+.bg-blue {
+    background-color: blue;
+}
+
+/*   Font-size   */
+/*   boxes   */
+/*      */
+
